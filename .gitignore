@@ -2,4 +2,4 @@
 .idea
 
 # image
-./ocr-test/img
+ocr-test/img/
