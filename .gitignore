@@ -1,2 +1,5 @@
 # idea ignore
 .idea
+
+# image
+./ocr-test/img

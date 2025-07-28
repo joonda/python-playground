@@ -1,3 +1,5 @@
+#  image preprocessing
+
 import cv2
 
 img = cv2.imread('./img/test.png')

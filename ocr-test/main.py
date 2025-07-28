@@ -1,3 +1,6 @@
+# easyocr 사용
+# 인식률이 좋지 않은편
+
 from PIL import Image
 import numpy as np
 import easyocr
