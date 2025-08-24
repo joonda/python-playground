@@ -1,5 +1,6 @@
 # idea ignore
-.idea
+.idea/
 
 # image
-ocr-test/img/
+slack-bot/img
+slack-bot/token.json
