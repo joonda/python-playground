@@ -10,5 +10,5 @@ export GOOGLE_APPLICATION_CREDENTIALS="$(pwd)/token.json"
 
 ### 프로그램 실행
 ```shell
-python3 detect.py
+python detect.py
 ```
